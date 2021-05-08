@@ -1,0 +1,35 @@
+
+fsquid:S1871Y"HThis case's code block is the same as the block for the case on line 77.(íð†Ž8„ÁÆ¢û.
+nsquid:CommentedOutCodeLinej"<This block of commented-out lines of code should be removed.(®Ú‘èþÿÿÿÿ8„ÁÆ¢û.
+Ksquid:S1604a"(Make this anonymous inner class a lambda(ÅÔÿ¦øÿÿÿÿ8„ÁÆ¢û.
+isquid:S1192^"FDefine a constant instead of duplicating this literal "/ooxx" 6 times.(îî‹ôúÿÿÿÿ8„ÁÆ¢û.
+fsquid:CallToDeprecatedMethod*"7Remove this use of "NoSyncConnected"; it is deprecated.(—££Á8„ÁÆ¢û.
+[
+squid:S106}"9Replace this use of System.out or System.err by a logger.(óßƒØýÿÿÿÿ8„ÁÆ¢û.
+csquid:CallToDeprecatedMethod&"/Remove this use of "Unknown"; it is deprecated.(ÂÄ‚™ùÿÿÿÿ8„ÁÆ¢û.
+dsquid:S2142m"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8„ÁÆ¢û.
+ksquid:S1871A"HThis case's code block is the same as the block for the case on line 59.(ÒçÏÑþÿÿÿÿ8„ÁÆ¢û.
+Msquid:S1481v"*Remove this unused "stat2" local variable.(È×ù‡ûÿÿÿÿ8„ÁÆ¢û.
+Osquid:S1481a",Remove this unused "getData" local variable.(ÅÔÿ¦øÿÿÿÿ8„ÁÆ¢û.
+fsquid:S1871Q"HThis case's code block is the same as the block for the case on line 77.(€ð°°8„ÁÆ¢û.
+fsquid:S1871U"HThis case's code block is the same as the block for the case on line 77.(òê´©8„ÁÆ¢û.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ž½Ž¦ÿÿÿÿÿ8„ÁÆ¢û.
+[
+squid:S106."9Replace this use of System.out or System.err by a logger.(Ôñ®²ûÿÿÿÿ8„ÁÆ¢û.
+Fsquid:S1148l"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8„ÁÆ¢û.
+Ksquid:S1604z"(Make this anonymous inner class a lambda(—–æùÿÿÿÿÿ8„ÁÆ¢û.
+fsquid:S1871W"HThis case's code block is the same as the block for the case on line 77.(¦‡Ëð8„ÁÆ¢û.
+Lsquid:S1481"")Remove this unused "path" local variable.(ÓÁúÿÿÿÿÿ8„ÁÆ¢û.
+fsquid:S1871C"HThis case's code block is the same as the block for the case on line 59.(é±ÈŸ8„ÁÆ¢û.
+fsquid:S1871S"HThis case's code block is the same as the block for the case on line 77.(Ú–Þé8„ÁÆ¢û.
+ksquid:S1871="HThis case's code block is the same as the block for the case on line 59.(ÆÁÖˆüÿÿÿÿ8„ÁÆ¢û.
+V
+squid:S106e"9Replace this use of System.out or System.err by a logger.(®ÉÝÿ8„ÁÆ¢û.
+Fsquid:S1148n"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8„ÁÆ¢û.
+fsquid:S1871?"HThis case's code block is the same as the block for the case on line 59.(‘ù›ä8„ÁÆ¢û.
+Psquid:S1481^"-Remove this unused "pathName" local variable.(îî‹ôúÿÿÿÿ8„ÁÆ¢û.
+csquid:S2147m"ECombine this catch with the one at line 107, which has the same body.(ä ¹€8„ÁÆ¢û.
+fsquid:S1871O"HThis case's code block is the same as the block for the case on line 77.(ÅüÄˆ8„ÁÆ¢û.
+[
+squid:S106#"9Replace this use of System.out or System.err by a logger.(¿“ñøÿÿÿÿ8„ÁÆ¢û.
