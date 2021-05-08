@@ -1,6 +1,0 @@
-
-‰squid:S2273"hMove this call to "wait()" into a synchronized block to be sure the monitor on "CountDownLatch" is held.(Ô”­ıøÿÿÿÿ8ãÑ£û.
-Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ãÑ£û.
-[squid:S2274":Remove this call to "wait" or move it into a "while" loop.(Ô”­ıøÿÿÿÿ8ãÑ£û.
-jsquid:S1192"IDefine a constant instead of duplicating this literal "/AppConf" 4 times.(ç¥‰ºüÿÿÿÿ8—®Û£û.
-bsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ãÑ£û.
